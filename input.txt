@@ -1,0 +1,11 @@
+Section Weight:
+Participation 15
+Quizzes 15
+Projects 50
+Final 20
+
+Grading Scale:
+A 95
+B 85
+C 75
+D 65
